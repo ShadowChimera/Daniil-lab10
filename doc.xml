@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!--<?xml-stylesheet type="text/css" href="style.css"?>-->
+<!-- <?xml-stylesheet type="text/xsl" href="doc.xsl"?> -->
+<!-- <!DOCTYPE board SYSTEM "doc.dtd"> -->
+<!-- <board xmlns:xsi="urn:Test.Namespace" xsi:schemaLocation="urn:Test.Namespace doc.xsd"> -->
+<board>
+    <country>
+        <name>США</name>
+        <tour>
+            <type>Первый тип</type>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>3000</price>
+            <quantity>225</quantity>
+        </tour>
+        <tour>
+            <type>Второй тип</type>
+            <burn val = "+"/>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>1500</price>
+            <quantity>8</quantity>
+        </tour>
+        <tour>
+            <type>Третий тип</type>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>4000</price>
+            <quantity>137</quantity>
+        </tour>
+        <tour>
+            <type>Четвертый тип</type>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>2400</price>
+            <quantity>130</quantity>
+        </tour>
+        <tour>
+            <type>Пятый тип</type>
+            <burn val = "+"/>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>1670</price>
+            <quantity>140</quantity>
+        </tour>
+    </country>
+    <country>
+        <name>Украина</name>
+        <tour>
+            <type>Первый тип</type>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>1800</price>
+            <quantity>150</quantity>
+        </tour>
+        <tour>
+            <type>Второй тип</type>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>2000</price>
+            <quantity>220</quantity>
+        </tour>
+        <tour>
+            <type>Третий тип</type>
+            <burn val = "+"/>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>800</price>
+            <quantity>10</quantity>
+        </tour>
+        <tour>
+            <type>Четвертый тип</type>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>1400</price>
+            <quantity>134</quantity>
+        </tour>
+        <tour>
+            <type>Пятый тип</type>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>2200</price>
+            <quantity>97</quantity>
+        </tour>
+    </country>
+    <country>
+        <name>Польша</name>
+        <tour>
+            <type>Первый тип</type>
+            <burn val = "+"/>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>1000</price>
+            <quantity>6</quantity>
+        </tour>
+        <tour>
+            <type>Второй тип</type>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>2800</price>
+            <quantity>150</quantity>
+        </tour>
+        <tour>
+            <type>Третий тип</type>
+            <burn val = "+"/>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>950</price>
+            <quantity>12</quantity>
+        </tour>
+        <tour>
+            <type>Четвертый тип</type>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>1700</price>
+            <quantity>134</quantity>
+        </tour>
+        <tour>
+            <type>Пятый тип</type>            
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+            <price>2546</price>
+            <quantity>97</quantity>
+        </tour>
+    </country>
+</board>
